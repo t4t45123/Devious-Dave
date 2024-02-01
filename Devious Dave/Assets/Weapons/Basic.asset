@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e03b6e7da04e3924e8d673574dfd3910, type: 3}
+  m_Name: Basic
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 980389693186498752, guid: a26c3b313f5fd964d8ae0d6d3720d85e, type: 3}
+  fireRate: 0.4
+  bulletSpeed: 30
+  damage: 1
+  knockback: -2
+  spread: 1.15
+  ammo: 1
+  peircingAmount: 1
+  reloadTime: 0.5
+  bulletSize: 1
+  shots: 1
+  range: 10.12
+  holdToShoot: 0
+  basic: 1
+  shotgun: 0
+  shotgunAngleRange: 0
